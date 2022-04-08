@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "SDD-130J")(type "KiCad")(uri "${KIPRJMOD}/SDD-130J")(options "")(descr ""))
+  (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/Connectors.pretty")(options "")(descr ""))
+  (lib (name "Connector_TE_AMP_HD15")(type "KiCad")(uri "${KIPRJMOD}/Connector_TE_AMP_HD15.pretty")(options "")(descr ""))
+  (lib (name "Jacks")(type "KiCad")(uri "${KIPRJMOD}/Jacks.pretty")(options "")(descr ""))
+)

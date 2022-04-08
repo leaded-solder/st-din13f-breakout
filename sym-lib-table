@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SDD-130J")(type "Legacy")(uri "${KIPRJMOD}/SDD-130J/SDD-130J.lib")(options "")(descr ""))
+  (lib (name "RCJ-017")(type "Legacy")(uri "${KIPRJMOD}/RCJ-017.lib")(options "")(descr ""))
+)
