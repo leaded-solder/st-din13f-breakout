@@ -9,5 +9,12 @@ Available inputs (as of v0.1):
  - Composite video
  - RGBHV over HD15 ("VGA" port)
 
+Additionally, all pins of the 13-pin DIN are broken out onto fingers, suitable for prototyping or adding an audio input.
+
 # Tested With
 Nothing yet... watch this space
+
+# Bill of Materials
+ - CUI SDD-130J (or AliExpress substitute)
+ - Female HD15 connector
+ - RCJ-017 yellow composite video jack
