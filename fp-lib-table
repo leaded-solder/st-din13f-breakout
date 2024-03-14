@@ -1,6 +1,9 @@
 (fp_lib_table
+  (version 7)
   (lib (name "SDD-130J")(type "KiCad")(uri "${KIPRJMOD}/SDD-130J")(options "")(descr ""))
   (lib (name "Connectors")(type "KiCad")(uri "${KIPRJMOD}/Connectors.pretty")(options "")(descr ""))
   (lib (name "Connector_TE_AMP_HD15")(type "KiCad")(uri "${KIPRJMOD}/Connector_TE_AMP_HD15.pretty")(options "")(descr ""))
   (lib (name "Jacks")(type "KiCad")(uri "${KIPRJMOD}/Jacks.pretty")(options "")(descr ""))
+  (lib (name "ninigi-scart-ra")(type "KiCad")(uri "${KIPRJMOD}/ninigi-scart-ra.pretty")(options "")(descr ""))
+  (lib (name "USB-B1HSB6")(type "KiCad")(uri "${KIPRJMOD}/USB-B1HSB6")(options "")(descr ""))
 )

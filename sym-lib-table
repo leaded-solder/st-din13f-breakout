@@ -1,4 +1,7 @@
 (sym_lib_table
+  (version 7)
   (lib (name "SDD-130J")(type "Legacy")(uri "${KIPRJMOD}/SDD-130J/SDD-130J.lib")(options "")(descr ""))
   (lib (name "RCJ-017")(type "Legacy")(uri "${KIPRJMOD}/RCJ-017.lib")(options "")(descr ""))
+  (lib (name "bkm-129x-scart-vga-rescue")(type "KiCad")(uri "${KIPRJMOD}/bkm-129x-scart-vga-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "USB-B1HSB6-2")(type "KiCad")(uri "${KIPRJMOD}/USB-B1HSB6-2.kicad_sym")(options "")(descr ""))
 )
