@@ -4,4 +4,5 @@
   (lib (name "RCJ-017")(type "Legacy")(uri "${KIPRJMOD}/RCJ-017.lib")(options "")(descr ""))
   (lib (name "bkm-129x-scart-vga-rescue")(type "KiCad")(uri "${KIPRJMOD}/bkm-129x-scart-vga-rescue.kicad_sym")(options "")(descr ""))
   (lib (name "USB-B1HSB6-2")(type "KiCad")(uri "${KIPRJMOD}/USB-B1HSB6-2.kicad_sym")(options "")(descr ""))
+  (lib (name "Amps")(type "KiCad")(uri "${KIPRJMOD}/Amps.kicad_sym")(options "")(descr ""))
 )
