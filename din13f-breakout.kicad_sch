@@ -2249,7 +2249,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 83703403-7c7e-4495-9481-9066cad90350)
   )
-  (label "VSync" (at 245.745 104.775 180) (fields_autoplaced)
+  (label "Vsync" (at 245.745 104.775 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 9cbccf14-15c5-4a56-911e-41d04d871b1f)
   )
